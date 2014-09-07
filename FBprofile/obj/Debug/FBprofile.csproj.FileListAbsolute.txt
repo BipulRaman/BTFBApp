@@ -1,0 +1,26 @@
+c:\users\bipul\documents\visual studio 2012\Projects\FBprofile\FBprofile\bin\Debug\FBprofile.exe.manifest
+c:\users\bipul\documents\visual studio 2012\Projects\FBprofile\FBprofile\bin\Debug\FBprofile.application
+c:\users\bipul\documents\visual studio 2012\Projects\FBprofile\FBprofile\bin\Debug\FBprofile.exe
+c:\users\bipul\documents\visual studio 2012\Projects\FBprofile\FBprofile\bin\Debug\FBprofile.pdb
+c:\users\bipul\documents\visual studio 2012\Projects\FBprofile\FBprofile\bin\Debug\Facebook.dll
+c:\users\bipul\documents\visual studio 2012\Projects\FBprofile\FBprofile\bin\Debug\Facebook.xml
+c:\users\bipul\documents\visual studio 2012\Projects\FBprofile\FBprofile\obj\Debug\FBprofile.App.resources
+c:\users\bipul\documents\visual studio 2012\Projects\FBprofile\FBprofile\obj\Debug\FBprofile.Properties.Resources.resources
+c:\users\bipul\documents\visual studio 2012\Projects\FBprofile\FBprofile\obj\Debug\FBprofile.csproj.GenerateResource.Cache
+c:\users\bipul\documents\visual studio 2012\Projects\FBprofile\FBprofile\obj\Debug\FBprofile.exe.manifest
+c:\users\bipul\documents\visual studio 2012\Projects\FBprofile\FBprofile\obj\Debug\FBprofile.application
+c:\users\bipul\documents\visual studio 2012\Projects\FBprofile\FBprofile\obj\Debug\FBprofile.exe
+c:\users\bipul\documents\visual studio 2012\Projects\FBprofile\FBprofile\obj\Debug\FBprofile.pdb
+D:\BTLab\VisualStudio Projects\FBprofile\FBprofile\obj\Debug\FBprofile.exe
+D:\BTLab\VisualStudio Projects\FBprofile\FBprofile\obj\Debug\FBprofile.pdb
+D:\BTLab\VisualStudio Projects\FBprofile\FBprofile\bin\Debug\FBprofile.exe.manifest
+D:\BTLab\VisualStudio Projects\FBprofile\FBprofile\bin\Debug\FBprofile.application
+D:\BTLab\VisualStudio Projects\FBprofile\FBprofile\bin\Debug\FBprofile.exe
+D:\BTLab\VisualStudio Projects\FBprofile\FBprofile\bin\Debug\FBprofile.pdb
+D:\BTLab\VisualStudio Projects\FBprofile\FBprofile\bin\Debug\Facebook.dll
+D:\BTLab\VisualStudio Projects\FBprofile\FBprofile\bin\Debug\Facebook.xml
+D:\BTLab\VisualStudio Projects\FBprofile\FBprofile\obj\Debug\FBprofile.App.resources
+D:\BTLab\VisualStudio Projects\FBprofile\FBprofile\obj\Debug\FBprofile.Properties.Resources.resources
+D:\BTLab\VisualStudio Projects\FBprofile\FBprofile\obj\Debug\FBprofile.csproj.GenerateResource.Cache
+D:\BTLab\VisualStudio Projects\FBprofile\FBprofile\obj\Debug\FBprofile.exe.manifest
+D:\BTLab\VisualStudio Projects\FBprofile\FBprofile\obj\Debug\FBprofile.application

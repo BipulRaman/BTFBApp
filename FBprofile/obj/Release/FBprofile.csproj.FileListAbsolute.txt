@@ -1,0 +1,27 @@
+c:\users\bipul\documents\visual studio 2012\Projects\FBprofile\FBprofile\bin\Release\FBprofile.exe.manifest
+c:\users\bipul\documents\visual studio 2012\Projects\FBprofile\FBprofile\bin\Release\FBprofile.application
+c:\users\bipul\documents\visual studio 2012\Projects\FBprofile\FBprofile\bin\Release\FBprofile.exe
+c:\users\bipul\documents\visual studio 2012\Projects\FBprofile\FBprofile\bin\Release\FBprofile.pdb
+c:\users\bipul\documents\visual studio 2012\Projects\FBprofile\FBprofile\bin\Release\Facebook.dll
+c:\users\bipul\documents\visual studio 2012\Projects\FBprofile\FBprofile\bin\Release\Facebook.xml
+c:\users\bipul\documents\visual studio 2012\Projects\FBprofile\FBprofile\obj\Release\FBprofile.App.resources
+c:\users\bipul\documents\visual studio 2012\Projects\FBprofile\FBprofile\obj\Release\FBprofile.Properties.Resources.resources
+c:\users\bipul\documents\visual studio 2012\Projects\FBprofile\FBprofile\obj\Release\FBprofile.csproj.GenerateResource.Cache
+c:\users\bipul\documents\visual studio 2012\Projects\FBprofile\FBprofile\obj\Release\FBprofile.exe.manifest
+c:\users\bipul\documents\visual studio 2012\Projects\FBprofile\FBprofile\obj\Release\FBprofile.application
+c:\users\bipul\documents\visual studio 2012\Projects\FBprofile\FBprofile\obj\Release\FBprofile.exe
+c:\users\bipul\documents\visual studio 2012\Projects\FBprofile\FBprofile\obj\Release\FBprofile.pdb
+D:\BTLab\VisualStudio Projects\FBprofile\FBprofile\bin\Release\FBprofile.exe.manifest
+D:\BTLab\VisualStudio Projects\FBprofile\FBprofile\bin\Release\FBprofile.application
+D:\BTLab\VisualStudio Projects\FBprofile\FBprofile\bin\Release\FBprofile.exe
+D:\BTLab\VisualStudio Projects\FBprofile\FBprofile\bin\Release\FBprofile.pdb
+D:\BTLab\VisualStudio Projects\FBprofile\FBprofile\bin\Release\Facebook.dll
+D:\BTLab\VisualStudio Projects\FBprofile\FBprofile\bin\Release\Facebook.xml
+D:\BTLab\VisualStudio Projects\FBprofile\FBprofile\obj\Release\FBprofile.App.resources
+D:\BTLab\VisualStudio Projects\FBprofile\FBprofile\obj\Release\FBprofile.Properties.Resources.resources
+D:\BTLab\VisualStudio Projects\FBprofile\FBprofile\obj\Release\FBprofile.csproj.GenerateResource.Cache
+D:\BTLab\VisualStudio Projects\FBprofile\FBprofile\obj\Release\FBprofile.exe.manifest
+D:\BTLab\VisualStudio Projects\FBprofile\FBprofile\obj\Release\FBprofile.application
+D:\BTLab\VisualStudio Projects\FBprofile\FBprofile\obj\Release\FBprofile.exe
+D:\BTLab\VisualStudio Projects\FBprofile\FBprofile\obj\Release\FBprofile.pdb
+D:\BTLab\VisualStudio Projects\FBprofile\FBprofile\obj\Release\FBprofile.csprojResolveAssemblyReference.cache
