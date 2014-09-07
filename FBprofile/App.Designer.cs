@@ -33,7 +33,7 @@
             this.txtUserName = new System.Windows.Forms.TextBox();
             this.btnGetDetails = new System.Windows.Forms.Button();
             this.rtDetails = new System.Windows.Forms.RichTextBox();
-            this.label1 = new System.Windows.Forms.Label();
+            this.lblCopyright = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // lblInstruct
@@ -76,22 +76,22 @@
             this.rtDetails.TabIndex = 3;
             this.rtDetails.Text = "";
             // 
-            // label1
+            // lblCopyright
             // 
-            this.label1.AutoSize = true;
-            this.label1.Font = new System.Drawing.Font("Calibri", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label1.Location = new System.Drawing.Point(416, 396);
-            this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(258, 15);
-            this.label1.TabIndex = 4;
-            this.label1.Text = " © 2014, All rights reserved with Bipul Raman";
+            this.lblCopyright.AutoSize = true;
+            this.lblCopyright.Font = new System.Drawing.Font("Calibri", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblCopyright.Location = new System.Drawing.Point(416, 396);
+            this.lblCopyright.Name = "lblCopyright";
+            this.lblCopyright.Size = new System.Drawing.Size(258, 15);
+            this.lblCopyright.TabIndex = 4;
+            this.lblCopyright.Text = " © 2014, All rights reserved with Bipul Raman";
             // 
             // App
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(697, 418);
-            this.Controls.Add(this.label1);
+            this.Controls.Add(this.lblCopyright);
             this.Controls.Add(this.rtDetails);
             this.Controls.Add(this.btnGetDetails);
             this.Controls.Add(this.txtUserName);
@@ -113,7 +113,7 @@
         private System.Windows.Forms.TextBox txtUserName;
         private System.Windows.Forms.Button btnGetDetails;
         private System.Windows.Forms.RichTextBox rtDetails;
-        private System.Windows.Forms.Label label1;
+        private System.Windows.Forms.Label lblCopyright;
     }
 }
 

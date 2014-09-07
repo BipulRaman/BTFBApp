@@ -25,3 +25,5 @@ D:\BTLab\VisualStudio Projects\FBprofile\FBprofile\obj\Release\FBprofile.applica
 D:\BTLab\VisualStudio Projects\FBprofile\FBprofile\obj\Release\FBprofile.exe
 D:\BTLab\VisualStudio Projects\FBprofile\FBprofile\obj\Release\FBprofile.pdb
 D:\BTLab\VisualStudio Projects\FBprofile\FBprofile\obj\Release\FBprofile.csprojResolveAssemblyReference.cache
+D:\BTLab\Lab All\VisualStudio Projects\FBprofile\FBprofile\obj\Release\FBprofile.exe
+D:\BTLab\Lab All\VisualStudio Projects\FBprofile\FBprofile\obj\Release\FBprofile.pdb
