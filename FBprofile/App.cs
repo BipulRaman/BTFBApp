@@ -45,7 +45,7 @@ namespace FBprofile
         }
 
         /// <summary>
-        /// Event after Submit button click
+        /// Mthod to define Event after Submit button click
         /// </summary>
         private void btnGetDetails_Click(object sender, EventArgs e)
         {
